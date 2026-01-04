@@ -3,6 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+capstone_proj_venv
 # C extensions
 *.so
 
